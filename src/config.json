@@ -1,5 +1,74 @@
 {
+    "prefix": "!",
     "bot": {
-        "token": "YOUR DISCORD BOT TOKEN HERE"
+        "token": "seu token"
+    },
+    "cryptos": {
+        "btc": {
+            "color": "#f69c3d"
+        },
+        "eth": {
+            "color": "#497493"
+        },
+        "ada": {
+            "color": "#0033ad"
+        },
+        "seed": {
+            "color": "#8ec761"
+        },
+        "tree": {
+            "color": "#8ec761"
+        },
+        "vtc": {
+            "color": "#205b30"
+        },
+        "dash": {
+            "color": "#1376b5"
+        },
+        "xmr": {
+            "color": "#fc6621"
+        },
+        "zec": {
+            "color": "#d38f36"
+        },
+        "bcc": {
+            "color": "#f5922f"
+        },
+        "btg": {
+            "color": "#e8a629"
+        },
+        "mtl": {
+            "color": "#c5b398"
+        },
+        "mco": {
+            "color": "#032144"
+        },
+        "omg": {
+            "color": "#2159ec"
+        },
+        "ltc": {
+            "color": "#949494"
+        },
+        "xrp": {
+            "color": "#1b95ca"
+        },
+        "strat": {
+            "color": "#6bb3e0"
+        },
+        "xdn": {
+            "color": "#507ba0"
+        },
+        "neo": {
+            "color": "#93cb30"
+        },
+        "dmd": {
+            "color": "#a4cad9"
+        },
+        "zen": {
+            "color": "#f38723"
+        },
+        "usdt": {
+            "color": "#2ea07b"
+        }
     }
 }

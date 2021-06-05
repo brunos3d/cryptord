@@ -1,5 +1,5 @@
 {
-    "name": "discord-bot-typescript-boilerplate",
+    "name": "cryptord",
     "version": "1.0.0",
     "main": "./dist/index.js",
     "license": "MIT",
@@ -12,6 +12,7 @@
     "dependencies": {
         "@types/node": "^14.14.10",
         "discord.js": "^12.2.0",
+        "puppeteer": "^10.0.0",
         "ts-node-dev": "^1.0.0-pre.56",
         "typescript": "^3.9.7"
     }
